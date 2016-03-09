@@ -1,0 +1,16 @@
+d674e86a223897fe1cd91347d7e23684 *DESCRIPTION
+8b07dfd4d72276ca35f09179223431fe *NAMESPACE
+21bddc31b4456f92116b8b93bada12f0 *R/generalised.R
+2949b2702610150d00fc7bf113a92259 *R/linear.R
+47a9ba79b88b6769ed9a209d3b3a5f3b *data/bank.rda
+bca7feb062499b4662f24a1180c96bcf *data/concrete.rda
+c5b3f49b23c2173834d5dfb9801160e2 *data/prostate.rda
+37962400a397e9a1c500259800313394 *man/bank.Rd
+127504c8e6bcd19822d2dab5abd9eb04 *man/concrete.Rd
+4701a3bae7d7717de9ff5090e57a21ad *man/glmsel.Rd
+c8ca827e5853db711627383effb792a4 *man/lmsel.Rd
+a2436d30a97388ae92aeaf5f21c33a6e *man/plot.glmsel.Rd
+9034bef4108f62545b8f2ed396c9c90b *man/plot.lmsel.Rd
+202984fa12c4a21d83e7919286e2c162 *man/prostate.Rd
+6560a4737911dc4b14b63eaad390c7cb *man/summary.glmsel.Rd
+37643aa33d72e07df8d9cda078db167f *man/summary.lmsel.Rd
